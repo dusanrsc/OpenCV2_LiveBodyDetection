@@ -1,4 +1,7 @@
 # Live Body Detection With Python3 And OpenCV2.
+# This Is Very First Version Of Body Detection In Python3 And OpenCV2.
+# And Also This Is The Lighter Version Of Body Detection App...
+
 # Screenshots:
 Body Detected
 
